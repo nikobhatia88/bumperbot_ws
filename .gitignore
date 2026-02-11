@@ -1,0 +1,12 @@
+build/
+devel/
+install/
+log/
+*.log
+*.pyc
+__pycache__/
+.vscode/*.db
+.vscode/*.db-shm
+.vscode/*.db-wal
+.DS_Store
+Thumbs.db
