@@ -7,5 +7,6 @@
         "/home/nikobhatia/bumperbot_ws/install/bumperbot_py_examples/lib/python3.12/site-packages",
         "/opt/ros/jazzy/lib/python3.12/site-packages"
     ],
-    "github.copilot.chat.codeGeneration.useInstructionFiles": true
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+    "ROS2.distro": "jazzy"
 }
